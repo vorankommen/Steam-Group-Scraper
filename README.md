@@ -13,3 +13,5 @@ BeautifulSoup
 threading
 
 When you run the py file it will ask you for a starting group id and an ending one, then for threads i recommend using 15-30 (up to you)
+
+The python program will create a txt file for you, and it will scrape the groups into that txt file.
